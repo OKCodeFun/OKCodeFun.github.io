@@ -1,5 +1,5 @@
-# Hello ，This Joseph Lu's blog 
-Codes, tools, ideas, book notes are shared here .
+# Hello ，Welcome to Joseph Lu's blog 
+Codes, tools, ideas, book notes are shared here 
 ## Tools:
 | Name  | description  | link  |
 | :------------ | :------------ | :------------ |
